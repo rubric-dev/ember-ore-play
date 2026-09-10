@@ -1,13 +1,13 @@
 {
-  "game_version": "0.3.0-mobile-preview.1",
-  "source_commit": "9b56caa7aa17acc1830c595b633cb712c2dcedae",
+  "game_version": "0.3.1-rework.1",
+  "source_commit": "937419f6672eb620650f15ac7eacb5977f4bed79",
   "milestone": "M1 in progress; physical Android/iPhone QA pending",
-  "storage": "schema2 isolated DB; legacy copied once, original preserved",
+  "storage": "schema3 isolated DB; schema2 then legacy copied once, originals preserved",
   "files": {
-    "index.html": "61eb5b44d7bf680df6f47000d8f5436b90009bc638bf7b4bb625d7ee2bdebbaa",
-    "index-0.3.0-mobile-preview.1.js": "088f2cb833ee391c637df1e4ff2d15c25e795c4b279109b309912bb5cd379abd",
-    "storage-0.3.0-mobile-preview.1.js": "4f5c829557abd4a9c106a99a3cfe4deb8a90816c30c5eeac66a006b34d344675",
-    "index-0.3.0-mobile-preview.1.pck": "7375034faa9f37611813f21c0626727591e4a7e8cd3bcbe499178c88fe50db7c",
+    "index.html": "f7d0fa48dc253dfc35e16dbde8d92607daf284f629bffdfe85ac57a3e205e614",
+    "index-0.3.1-rework.1.js": "eee815d25b2ab630ca1c2381ccd730d03d09c770f41eff3484cd0bd2e8339fdf",
+    "storage-0.3.1-rework.1.js": "7c0872e46637bd2e51e0ec137ed7e56967c33348e20b34dd80794b30d5e82c2d",
+    "index-0.3.1-rework.1.pck": "f5241fa864b78f38f4fc2d463130526687cd5ef45a3c869390b4b1894cfce61a",
     "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
   }
 }
