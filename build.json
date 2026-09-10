@@ -1,13 +1,13 @@
 {
-  "game_version": "0.3.1-rework.1",
-  "source_commit": "937419f6672eb620650f15ac7eacb5977f4bed79",
+  "game_version": "0.3.2-life.1",
+  "source_commit": "f2746424511529090084b4cab6acf77e7b53e8bd",
   "milestone": "M1 in progress; physical Android/iPhone QA pending",
-  "storage": "schema3 isolated DB; schema2 then legacy copied once, originals preserved",
+  "storage": "schema4 isolated DB; schema3 then schema2 then legacy copied once, originals preserved",
   "files": {
-    "index.html": "f7d0fa48dc253dfc35e16dbde8d92607daf284f629bffdfe85ac57a3e205e614",
-    "index-0.3.1-rework.1.js": "eee815d25b2ab630ca1c2381ccd730d03d09c770f41eff3484cd0bd2e8339fdf",
-    "storage-0.3.1-rework.1.js": "7c0872e46637bd2e51e0ec137ed7e56967c33348e20b34dd80794b30d5e82c2d",
-    "index-0.3.1-rework.1.pck": "f5241fa864b78f38f4fc2d463130526687cd5ef45a3c869390b4b1894cfce61a",
+    "index.html": "b0517f3eefac563cf84dbcbeb9ac7d837efa5c4a4bf3bdb4d4fe2b95fd39b3cd",
+    "index-0.3.2-life.1.js": "f02aca0f189ffcb37c1c2d34d282e005dc52e102229ffbcd67309611a0672760",
+    "storage-0.3.2-life.1.js": "89d86e90e9aba671828ba30b88e1919177e619aa74a3411c366fc7c743afae48",
+    "index-0.3.2-life.1.pck": "41f263226b3180cb3b336bca6e019c626842660908db46a0ceee51f2887fe2b1",
     "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
   }
 }
