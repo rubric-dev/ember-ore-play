@@ -1,13 +1,13 @@
 {
-  "game_version": "0.3.2-life.1",
-  "source_commit": "f2746424511529090084b4cab6acf77e7b53e8bd",
+  "game_version": "0.3.3-room.1",
+  "source_commit": "5be59ec6444250483993a95f910ffcd15af502d7",
   "milestone": "M1 in progress; physical Android/iPhone QA pending",
   "storage": "schema4 isolated DB; schema3 then schema2 then legacy copied once, originals preserved",
   "files": {
-    "index.html": "b0517f3eefac563cf84dbcbeb9ac7d837efa5c4a4bf3bdb4d4fe2b95fd39b3cd",
-    "index-0.3.2-life.1.js": "f02aca0f189ffcb37c1c2d34d282e005dc52e102229ffbcd67309611a0672760",
-    "storage-0.3.2-life.1.js": "89d86e90e9aba671828ba30b88e1919177e619aa74a3411c366fc7c743afae48",
-    "index-0.3.2-life.1.pck": "41f263226b3180cb3b336bca6e019c626842660908db46a0ceee51f2887fe2b1",
+    "index.html": "a7b155efeae463f2593e6ab6e732e8d3a1240856bc77e0294acf2601f9ed700f",
+    "index-0.3.3-room.1.js": "f02aca0f189ffcb37c1c2d34d282e005dc52e102229ffbcd67309611a0672760",
+    "storage-0.3.3-room.1.js": "89d86e90e9aba671828ba30b88e1919177e619aa74a3411c366fc7c743afae48",
+    "index-0.3.3-room.1.pck": "13f22dea518f1651ee16d0366e1ba844d769130a7c1212b2c9bb30698fee70c1",
     "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
   }
 }
