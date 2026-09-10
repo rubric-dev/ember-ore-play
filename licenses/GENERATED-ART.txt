@@ -1,0 +1,4 @@
+Ember & Ore forge preview 0.5.0-forge.1
+Forge station, furnishing, architectural sprite atlases and oak floor were generated for this project with OpenAI's built-in image generation tool in September 2026.
+Used in the actual game: furnace/anvil/woodworking table/bed; bench/plant/apprentice desk/mineral cabinet; counter/slate hearth floor/privacy divider/tool racks; oak floor.
+Other placeholder assets retain their existing Kenney CC0 and Noto font license notices in this folder. Generated asset provenance is not a claim of exclusive copyright.

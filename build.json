@@ -1,13 +1,13 @@
 {
-  "game_version": "0.4.0-day.2",
-  "source_commit": "d005e053b9692424eed7c84d6c732197a7a04862",
+  "game_version": "0.5.0-forge.1",
+  "source_commit": "32de4b07e48e9f43161eac48902d6a89fa583e5f",
   "milestone": "M1 in progress; physical Android/iPhone QA pending",
   "storage": "schema5 isolated DB; schema4 then schema3 then schema2 then legacy copied once, originals preserved",
   "files": {
-    "index.html": "3e5f4109e117d71a183481c3119396ae97e4c5933caeb6bdbbe7c4af87db36a9",
-    "index-0.4.0-day.2.js": "e44b6c3715429a4206e1cdeac4c3b00a82a917b3e49ecc604a04fc6cfbcf3470",
-    "storage-0.4.0-day.2.js": "446e219cc95a0d48a90880f1cfb7508033996fc3f99c3c8a019b809e160d044c",
-    "index-0.4.0-day.2.pck": "8755ed21ef2685ca8ab080ff34895f6668152c6a90927e4337db32344819c751",
+    "index.html": "0ada5e6f67abc9b78b3e465437229cf9f2289c5d41360581ce427b51506abdc7",
+    "index-0.5.0-forge.1.js": "e44b6c3715429a4206e1cdeac4c3b00a82a917b3e49ecc604a04fc6cfbcf3470",
+    "storage-0.5.0-forge.1.js": "446e219cc95a0d48a90880f1cfb7508033996fc3f99c3c8a019b809e160d044c",
+    "index-0.5.0-forge.1.pck": "4c9cd78abee9cfad4d8b25f0b0b230e3c345af5097538d3e3244b09c2271fc88",
     "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
   }
 }
