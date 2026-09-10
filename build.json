@@ -1,18 +1,13 @@
 {
-  "game_version": "0.2.1",
-  "base_source_commit": "ddea901e5a619e5bc413a89e26b00f4c39fb57ec",
-  "hotfix": "Explicit bundled Korean font for all labels",
+  "game_version": "0.3.0-mobile-preview.1",
+  "source_commit": "9b56caa7aa17acc1830c595b633cb712c2dcedae",
+  "milestone": "M1 in progress; physical Android/iPhone QA pending",
+  "storage": "schema2 isolated DB; legacy copied once, original preserved",
   "files": {
-    "index.apple-touch-icon.png": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
-    "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
-    "index.icon.png": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
-    "index.html": "0b2b4009da6ced604d1b36cc39eb31ebf07490a64c014c23b0571d9cfe9e931a",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
-    "index-0.2.1.pck": "b9e6b8cd5c0673f9fd0f3994357fb555fca4fd97856cd7ce3f78b77cd6ad318b",
-    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.js": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba",
-    "README.md": "d00afc51565b92822f0082e7368e25c4b2072836a1049fa8def22c5735587faf",
-    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
-    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "index.html": "61eb5b44d7bf680df6f47000d8f5436b90009bc638bf7b4bb625d7ee2bdebbaa",
+    "index-0.3.0-mobile-preview.1.js": "088f2cb833ee391c637df1e4ff2d15c25e795c4b279109b309912bb5cd379abd",
+    "storage-0.3.0-mobile-preview.1.js": "4f5c829557abd4a9c106a99a3cfe4deb8a90816c30c5eeac66a006b34d344675",
+    "index-0.3.0-mobile-preview.1.pck": "7375034faa9f37611813f21c0626727591e4a7e8cd3bcbe499178c88fe50db7c",
+    "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
   }
 }
